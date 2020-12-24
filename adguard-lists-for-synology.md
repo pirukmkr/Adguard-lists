@@ -1,4 +1,5 @@
-# Adguard Lists for Synology
+# Adguard Lists for Synology (Network-wide ads & trackers blocking DNS server - https://github.com/AdguardTeam/AdGuardHome)
+
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
