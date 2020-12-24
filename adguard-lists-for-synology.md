@@ -1,4 +1,4 @@
-# Adguard-lists for Synology
+# Adguard Lists for Synology
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
